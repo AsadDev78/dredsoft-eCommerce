@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/dredsoft-eCommerce/static/css/main.56611688.css",
-    "main.js": "/dredsoft-eCommerce/static/js/main.8eb27abf.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/dredsoft-eCommerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/dredsoft-eCommerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/dredsoft-eCommerce/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/dredsoft-eCommerce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/dredsoft-eCommerce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/dredsoft-eCommerce/index.html",
-    "main.56611688.css.map": "/dredsoft-eCommerce/static/css/main.56611688.css.map",
-    "main.8eb27abf.js.map": "/dredsoft-eCommerce/static/js/main.8eb27abf.js.map"
+    "main.css": "/dredsoft-eCommerce/my-react-shop/static/css/main.c75fed2f.css",
+    "main.js": "/dredsoft-eCommerce/my-react-shop/static/js/main.8eb27abf.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/dredsoft-eCommerce/my-react-shop/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/dredsoft-eCommerce/my-react-shop/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/dredsoft-eCommerce/my-react-shop/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/dredsoft-eCommerce/my-react-shop/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/dredsoft-eCommerce/my-react-shop/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/dredsoft-eCommerce/my-react-shop/index.html",
+    "main.c75fed2f.css.map": "/dredsoft-eCommerce/my-react-shop/static/css/main.c75fed2f.css.map",
+    "main.8eb27abf.js.map": "/dredsoft-eCommerce/my-react-shop/static/js/main.8eb27abf.js.map"
   },
   "entrypoints": [
-    "static/css/main.56611688.css",
+    "static/css/main.c75fed2f.css",
     "static/js/main.8eb27abf.js"
   ]
 }
